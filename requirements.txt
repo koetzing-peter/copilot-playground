@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+nbformat
+numpy
+openpyxl
+pandas
+pre-commit
+PyQT5
+pytest
+python-dotenv
